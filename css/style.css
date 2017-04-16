@@ -12,7 +12,7 @@ src:url(../css/roboto-regular.ttf);
 }
 body {
 margin:0 auto;
-width:1920px;
+width:100%;
 background-color: #fff;
 }
 header {
@@ -21,6 +21,7 @@ position:relative;
 width:1920px;
 height:920px;
 background: url(../img/img_bg.jpg) no-repeat;
+background-size:contain; 
 background-color: #f0689e;
 }
 .logo_text {
@@ -31,6 +32,13 @@ color:#fff;
 font-family:oswald;
 font-size:30px;
 text-transform:uppercase;
+text-decoration: none;
+list-style-type: none;
+}
+.logo_text a {
+text-decoration: none;
+list-style-type: none;
+color:#fff;
 }
 nav {
 position:absolute;
@@ -60,7 +68,7 @@ nav li > a:hover {
 color:#fff;
 }
 nav li > a:visited {
-color:#c44c4c;
+color:#fff;
 }
 .clearfix {
 	zoom: 1;
