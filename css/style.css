@@ -115,3 +115,23 @@ margin-top:10px;
 .categori p {
 margin-top:10px;
 }
+.sprite {display: inline-block; vertical-align: middle;}
+.sprite {background-image: url(sprites/50aa169632fbc0e876bdadc846b8d757.png); 
+background-position: left center; background-repeat: no-repeat;}
+.sprite.angularjs_png {background-position: 0 0; width: 76px; height: 76px;}
+.sprite.banner_menu_bg_png {background-position: -77px 0; width: 40px; height: 40px;}
+.sprite.footer_icon01_png {background-position: -118px 0; width: 41px; height: 41px;}
+.sprite.footer_icon02_png {background-position: -160px 0; width: 41px; height: 41px;}
+.sprite.footer_icon03_png {background-position: -202px 0; width: 41px; height: 41px;}
+.sprite.footer_icon04_png {background-position: -244px 0; width: 41px; height: 41px;}
+.sprite.icon01_png {background-position: -286px 0; width: 40px; height: 58px;}
+.sprite.icon02_png {background-position: -327px 0; width: 59px; height: 58px;}
+.sprite.icon03_png {background-position: -387px 0; width: 58px; height: 51px;}
+.sprite.icon11_png {background-position: -446px 0; width: 83px; height: 78px;}
+.sprite.icon12_png {background-position: -530px 0; width: 69px; height: 83px;}
+.sprite.icon13_png {background-position: -600px 0; width: 83px; height: 83px;}
+.sprite.ionic_png {background-position: -684px 0; width: 62px; height: 62px;}
+.sprite.laravel_png {background-position: -747px 0; width: 70px; height: 51px;}
+.sprite.node_js_png {background-position: -818px 0; width: 52px; height: 57px;}
+.sprite.wordpress_png {background-position: -871px 0; width: 63px; height: 64px;}
+
