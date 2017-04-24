@@ -298,6 +298,30 @@ font-size:38px;
 .fact2 {
 font-size:13px;
 }
+.bg_f6 {
+background-color: #f6f6f6;
+}
+.request {
+float:left;
+width:30%;
+color:#222;
+font-size: 35px ;
+padding:20px;
+vertical-align: middle;
+box-shadow:0 0 20px 0px #aaa;
+background-color:#fff;
+/*border: 1px solid #000;*/
+}
+.news_window {
+float:left;
+width:60%;
+color:#222;
+font-size: 35px ;
+padding:20px;
+vertical-align: middle;
+
+/*border: 1px solid #000;*/
+}
 .footer_back {
 background: url(../img/footer_img_bg.jpg) no-repeat;
 background-position: 0 0; width: 1920px; height: 287px;
